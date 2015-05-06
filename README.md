@@ -1,5 +1,5 @@
 # IceNineSimulation
-#####Simulation of ice-nine from the book Cat's Cradle by Kurt Vonnegut.<br /><br />
+######Simulation of ice-nine from the book Cat's Cradle by Kurt Vonnegut.<br /><br />
 ###Instructions:<br />
 Change used map by naming it "map.jpg"<br />
 Run the application<br />
